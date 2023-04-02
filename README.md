@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
 # BinaryDoorLock
-This project was designed to become familiar with the process of designing a **real chip** with [https://tinytapeout.com](https://tinytapeout.com/)
+This goal of this little project was it to become familiar with the process of designing a **real chip** with [https://tinytapeout.com](https://tinytapeout.com/)
 
 ## The Idea
 was it to build a simple BinaryDoorLock with 8-Bits as input.  
