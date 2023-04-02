@@ -1,5 +1,14 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
+# BinaryDoorLock
+This project was designed to become familiar with the process of designing a **real chip** with [https://tinytapeout.com](https://tinytapeout.com/)
+
+## THE Idea
+was it to build a simple BinaryDoorLock with 8-Bits as input. With 8 Bits there are 256 possible combinations which can be switched on with the input switches. Only one combination opens the BinaryDoorLock by setting the output pin high.
+![](./media_assets/screenshot.png)
+
+The following sections are from the original README.md
+
 # What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
