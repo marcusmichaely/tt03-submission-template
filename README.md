@@ -3,8 +3,10 @@
 # BinaryDoorLock
 This project was designed to become familiar with the process of designing a **real chip** with [https://tinytapeout.com](https://tinytapeout.com/)
 
-## THE Idea
-was it to build a simple BinaryDoorLock with 8-Bits as input. With 8 Bits there are 256 possible combinations which can be switched on with the input switches. Only one combination opens the BinaryDoorLock by setting the output pin high.
+## The Idea
+was it to build a simple BinaryDoorLock with 8-Bits as input.  
+With 8 Bits there are 256 possible combinations which can be switched on with the input switches. 
+Only one combination opens the BinaryDoorLock by setting the output pin high. The design was made with [WOKWI](https://wokwi.com/projects/359387860730498049)
 ![](./media_assets/screenshot.png)
 
 The following sections are from the original README.md
