@@ -9,7 +9,7 @@ With 8 Bits there are 256 possible combinations which can be switched on with th
 Only one combination opens the BinaryDoorLock by setting the output pin high. The design was made with [WOKWI](https://wokwi.com/projects/359387860730498049)
 ![](./media_assets/screenshot.png)
 
-The following sections are from the original README.md
+The following sections are copied from the original [TinyTapeout](https://tinytapeout.com) template [README.md](https://github.com/TinyTapeout/tt03-submission-template/blob/main/README.md)
 
 # What is Tiny Tapeout?
 
