@@ -25,11 +25,13 @@ documentation:
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      Explain how your project works
+      The ideas was it to build a simple BinaryDoorLock with 8-Bits as input. With 8 Bits there are 256 possible combinations
+      which can be switched on with the input switches. Only one combination opens the BinaryDoorLock by setting the output pin high.
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
-      Explain how to test your project
+      You can test this project on its **WOKWI**:  
+      [https://wokwi.com/projects/359387860730498049](https://wokwi.com/projects/359387860730498049)
 
 # A description of what the inputs do
   inputs:               
